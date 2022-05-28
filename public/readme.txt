@@ -1,0 +1,1 @@
+this is example text for testing express.static middleware function.
